@@ -1,0 +1,52 @@
+.inputText{
+    width: 300px;
+    height: 30px;
+    border-radius:3px;
+    border: 2px solid #F08080;
+    padding-left: 10px;
+}
+.send_btn{
+    width: 130px;
+    height: 25px;
+    border: 1px solid #F4A460;
+    color: darksalmon;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+    background-color: wheat;
+}
+.clear_btn{
+    width: 130px;
+    height: 25px;
+    border: 1px solid #F4A460;
+    color: darksalmon;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+    background-color: wheat;
+}
+.danmu{
+    margin: 20px;
+    text-align:center;
+}
+.danmuScreen{
+    border: 1px solid darksalmon;
+}
+.danmu .danmuScreen .danmuMask{
+    width: 100%;
+    height: 384px;
+}
+
+.danmu .danmuScreen .danmuShow div{
+    font-size:22px;
+    font-weight:300;
+    color:cadetblue;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.danmuInput{
+    margin: 20px;
+}
